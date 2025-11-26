@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { PRODUCT_CATALOG } from '../data/catalog';
+import { PRODUCTS, LOCATIONS, CURRENT_USER_ID } from '../constants';
 import { DataService } from '../services/dataService';
 import { SmartCalculator } from '../components/SmartCalculator';
 
