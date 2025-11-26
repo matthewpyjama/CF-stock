@@ -1,0 +1,7 @@
+{
+  "name": "CF25 Event Stock",
+  "description": "Mobile-first inventory management system for high-volume events. Features 'Smart Case Calculator', Hub & Spoke transfer tracking, and variance reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
